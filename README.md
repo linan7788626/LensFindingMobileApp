@@ -3,5 +3,5 @@ Trying to develop a APP for lens finding on mobile phones
 
 - [ ] Simulated lensed images (20000). 
 - [ ] An APP on Android.
-- [ ] Connecting APP and Server together.
+- [ ] Connecting APP and Server.
 - [ ] First test by students. 
