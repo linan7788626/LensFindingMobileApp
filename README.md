@@ -1,7 +1,8 @@
 # LensFindingMobileApp
-Trying to develop a APP for lens finding on mobile phones 
+Trying to develop an Android APP for lens finding on smart phones.
 
-- [ ] Simulated lensed images (20000). 
-- [ ] An APP on Android.
+- [ ] Simulating lensed images (20000), or extracting images from spacewarps. 
+- [ ] An APP on Android (or/and iOS).
+- [ ] Building a data server for unclassified images.
 - [ ] Connecting APP and Server.
 - [ ] First test by students. 
